@@ -1,0 +1,2 @@
+Flop, köklerini Nano’dan alan ancak sade ve stabil bir deneyim isteyenler için yapısı değiştirilmiş bir not defteridir.Piyasadaki diğer devasa editörlerle bir sidik yarışına girmek ya da sektörü domine etmek gibi bir derdi yoktur; Flop, rekabet için değil,ufak bir alternatif olması için tasarlandı.
+Kurulum için 'cd $HOME && curl -L https://github.com/openchest22-dotcom/Flop/raw/main/flop1.0.tar.gz -o flop1.0.tar.gz && tar -xvf flop1.0.tar.gz && sed -i 's/\r$//' install.sh && chmod +x install.sh && sudo ./install.sh'
